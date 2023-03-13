@@ -1,2 +1,3 @@
+Hello im in stagenew branch
 hello to all
 This git commands are very imp...... 
